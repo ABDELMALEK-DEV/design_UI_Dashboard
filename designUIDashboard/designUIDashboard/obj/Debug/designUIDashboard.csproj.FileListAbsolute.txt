@@ -1,0 +1,9 @@
+C:\Users\ABDELMALEK\source\repos\designUIDashboard\designUIDashboard\bin\Debug\designUIDashboard.exe.config
+C:\Users\ABDELMALEK\source\repos\designUIDashboard\designUIDashboard\bin\Debug\designUIDashboard.exe
+C:\Users\ABDELMALEK\source\repos\designUIDashboard\designUIDashboard\bin\Debug\designUIDashboard.pdb
+C:\Users\ABDELMALEK\source\repos\designUIDashboard\designUIDashboard\obj\Debug\designUIDashboard.csprojAssemblyReference.cache
+C:\Users\ABDELMALEK\source\repos\designUIDashboard\designUIDashboard\obj\Debug\designUIDashboard.Form1.resources
+C:\Users\ABDELMALEK\source\repos\designUIDashboard\designUIDashboard\obj\Debug\designUIDashboard.Properties.Resources.resources
+C:\Users\ABDELMALEK\source\repos\designUIDashboard\designUIDashboard\obj\Debug\designUIDashboard.csproj.GenerateResource.cache
+C:\Users\ABDELMALEK\source\repos\designUIDashboard\designUIDashboard\obj\Debug\designUIDashboard.exe
+C:\Users\ABDELMALEK\source\repos\designUIDashboard\designUIDashboard\obj\Debug\designUIDashboard.pdb
